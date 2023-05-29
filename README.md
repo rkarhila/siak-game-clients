@@ -4,7 +4,7 @@ Game clients used for research into children's foreign language learning studies
 
 ## SIAK game
 
-* SIAK is the first research game for 9-12 year old players developed at Aalto University.
+* https://github.com/aalto-speech/siak-unity is the first research game for 9-12 year old players developed at Aalto University.
 
 ## Pop2Talk
 
@@ -14,4 +14,4 @@ Game clients used for research into children's foreign language learning studies
 
 ## FySIAK
 
-* FySIAK is a data collection physics game developed at Aalto University.
+* [to be added shortly] FySIAK is a data collection physics game developed at Aalto University.

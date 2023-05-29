@@ -4,3 +4,6 @@
 [submodule "l2-game"]
 	path = l2-game
 	url = https://github.com/aalto-speech/l2-game
+[submodule "siak-unity"]
+	path = siak-unity
+	url = git@github.com:aalto-speech/siak-unity.git
