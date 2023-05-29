@@ -1,0 +1,6 @@
+[submodule "Pop2Talk"]
+	path = Pop2Talk
+	url = https://github.com/hokema/Pop2Talk
+[submodule "l2-game"]
+	path = l2-game
+	url = https://github.com/aalto-speech/l2-game
